@@ -3,7 +3,7 @@ Screen Recorder Created in Java using CV Open Library
 
 ![image](https://github.com/DanielAndrei1/Screen-Recorder/assets/44091613/c59d00db-8a95-41de-b816-e11d641904ef)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4gmchTdS-FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/4gmchTdS-FY
 
 # Runnable jar (recorder) only tested on Windows
 To run the program you need to download cv open library and JDK or  JRE Java:
