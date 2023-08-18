@@ -1,5 +1,4 @@
-# Screen-Recorder
-Screen Recorder Created in Java using Open CV Library
+# Screen&Audio-Recorder Created in Java using Open CV Library
 
 ![image](https://github.com/DanielAndrei1/Screen-Recorder/assets/44091613/c59d00db-8a95-41de-b816-e11d641904ef)
 
